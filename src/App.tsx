@@ -1,12 +1,9 @@
-
-
 function App() {
-
   return (
-    <>
-      <h1>Ticket Generator</h1>
-    </>
-  )
+    <div className="bg-graphics">
+
+    </div>
+  );
 }
 
-export default App
+export default App;
