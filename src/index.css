@@ -27,6 +27,6 @@
   }
 
   .label {
-    @apply text-neutral-100 text-xl;
+    @apply text-neutral-100 text-xl font-semibold;
   }
 }

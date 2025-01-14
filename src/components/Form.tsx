@@ -1,4 +1,5 @@
 import FormHeading from "./FormHeading"
+import Name from "./Name"
 import UploadAvatar from "./UploadAvatar"
 
 const Form = () => {
@@ -6,6 +7,7 @@ const Form = () => {
     <form className="w-full grid place-items-center gap-4">
         <FormHeading />
         <UploadAvatar />
+        <Name />
     </form>
   )
 }
